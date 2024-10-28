@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbeddedResource", "EmbeddedResource\EmbeddedResource.csproj", "{57ABDDCE-7BD1-4E14-8CFA-0587060F7ACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57ABDDCE-7BD1-4E14-8CFA-0587060F7ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57ABDDCE-7BD1-4E14-8CFA-0587060F7ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57ABDDCE-7BD1-4E14-8CFA-0587060F7ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57ABDDCE-7BD1-4E14-8CFA-0587060F7ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
